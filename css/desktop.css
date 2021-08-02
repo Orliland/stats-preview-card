@@ -1,0 +1,53 @@
+body {
+  height: 100vh;
+  padding: 0;
+}
+
+.main {
+  width: calc(100vw - 30rem);
+  height: calc(((100vw - 30rem) / 2) * 0.8259);
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr;
+}
+
+.cover {
+  grid-row: 1 / 2;
+  grid-column: 2 / 3;
+  background-image: url(../images/image-header-desktop.jpg);
+  width: 100%;
+  height: calc(((100vw - 30rem) / 2) * 0.8259);
+}
+
+.section {
+  grid-row: 1 / 2;
+  grid-column: 1 / 2;
+  padding: 5rem;
+}
+
+.section__title {
+  text-align: left;
+  font-size: 3.8rem;
+}
+
+.section__paragraph {
+  text-align: left;
+  font-size: 1.8rem;
+  margin: 3rem 0 5rem 0;
+}
+
+.section__stats {
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.stat__number,
+.stat__text {
+  text-align: left;
+}
+
+.attribution {
+  grid-row: 1 / 2;
+  grid-column: 1 / 2;
+  align-self: end;
+  z-index: 2;
+}
