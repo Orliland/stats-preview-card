@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/OrlandoVC/stats-preview-card)
-- Live Site URL: [Github Pages](https://orlandovc.github.io/stats-preview-card/)
+- Solution URL: [Github Repo](https://github.com/Orliand/stats-preview-card)
+- Live Site URL: [Github Pages](https://orliland.github.io/stats-preview-card/)
 
 ## My process
 
@@ -54,5 +54,5 @@ With this project I practiced concepts like CSS Grid and Flexbox, I still need t
 ## Author
 
 - Website - [orli.land](https://orli.land)
-- Frontend Mentor - [@OrlandoVC](https://www.frontendmentor.io/profile/OrlandoVC)
+- Frontend Mentor - [@Orliland](https://www.frontendmentor.io/profile/Orliland)
 - Twitter - [@Orliland](https://www.twitter.com/Orliland)
